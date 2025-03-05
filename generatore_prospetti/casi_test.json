@@ -1,0 +1,69 @@
+{
+  "laureandi" : [
+    {
+      "laureando" : {
+        "matricola": "123456",
+        "corsoDiLaurea": "T. Ing. Informatica",
+        "dataLaurea": "2023-02-28",
+        "bonusInf": "NO",
+        "mediaPesata": 23.655,
+        "cfuMedia": 174,
+        "cfuTotali": 177,
+        "mediaPesataInf": 23.667,
+        "voti": [89.966, 90.966, 91.966, 92.966, 93.966, 94.966, 95.966]
+      }
+    },
+    {
+      "laureando" : {
+        "matricola": "234567",
+        "corsoDiLaurea": "M. Ing. Elettronica",
+        "dataLaurea": "2023-02-28",
+        "bonusInf": null,
+        "mediaPesata": 24.559,
+        "cfuMedia": 102,
+        "cfuTotali": 102,
+        "mediaPesataInf": null,
+        "voti": [94.3, 94.9, 95.5, 96.1, 96.7, 97.3, 97.9, 98.5, 99.1, 99.7, 100.3, 100.9, 101.5]
+      }
+    },
+    {
+      "laureando" : {
+        "matricola": "345678",
+        "corsoDiLaurea": "T. Ing. Informatica",
+        "dataLaurea": "2023-02-28",
+        "bonusInf": "SI",
+        "mediaPesata": 25.564,
+        "cfuMedia": 165,
+        "cfuTotali": 177,
+        "mediaPesataInf": 25.75,
+        "voti": [95.691, 96.691,97.691,98.691, 99.691, 100.691, 101.691]
+      }
+    },
+    {
+      "laureando" : {
+        "matricola": "456789",
+        "corsoDiLaurea": "M. Ing. delle Telecomunicazioni",
+        "dataLaurea": "2023-02-28",
+        "bonusInf": null,
+        "mediaPesata": 32.625,
+        "cfuMedia": 96,
+        "cfuTotali": 96,
+        "mediaPesataInf": null,
+        "voti": [120.625, 121.625, 122.625, 123.625, 124.625, 125.625, 126.625, 127.625, 128.625, 129.625, 130.625]
+      }
+    },
+    {
+      "laureando" : {
+        "matricola": "567890",
+        "corsoDiLaurea": "M. Cybersecurity",
+        "dataLaurea": "2023-02-28",
+        "bonusInf": null,
+        "mediaPesata": 24.882,
+        "cfuMedia": 102,
+        "cfuTotali": 120,
+        "mediaPesataInf": null,
+        "voti": [92.235, 93.235, 94.235, 95.235, 96.235, 97.235, 98.235]
+      }
+    }
+  ]
+}
